@@ -1,0 +1,102 @@
+event: Ted
+event: Ted conference
+occupation: psychologist
+occupation: happiness expert
+person_name: Dan Gilbert
+email_address: video@ted.com
+person_name: Dan Gilbert
+occupation: simulator pilots
+organization: Ben and Jerry
+money_amount: 314,000,000
+medical_condition: paraplegic
+injury: losing the use of their legs
+medical_condition: paraplegics
+occupation: economists
+occupation: psychologists
+occupation: Sir
+person_name: Thomas Brown
+person_name: Achilles
+occupation: Sir
+person_name: Thomas
+occupation: Sir
+person_name: Thomas
+person_name: Jim Wright
+occupation: chairman
+organization: House of Representatives
+political_affiliation: Republican
+person_name: Newt Gingrich
+political_affiliation: Democrat
+person_name: Maurice Bickham
+person_name: Maurice Bickham
+person_age: 78
+organization: Louisiana State Penitentiary
+person_age: 78
+medical_process: DNA
+person_name: Harius Langerman
+person_name: McDonald
+money_amount: 3,000
+person_name: Harry
+location: New York
+occupation: investment banker
+money_amount: 3,000
+person_name: ray Croc
+person_name: Ray Croc
+location: America
+person_name: Pete Best
+occupation: drummer
+organization: The Beatles
+person_name: Ringo
+person_name: Pete Best
+occupation: drummer
+occupation: studio musician
+organization: the Beatles
+organization: the Beatles
+person_name: Matthew Ricard
+religion: Zen
+occupation: monks
+occupation: scientist
+person_name: Monet
+person_name: Monet
+medical_condition: amnesia
+medical_condition: Corsicoff syndrome
+medical_condition: polyneurotic, psychosis
+occupation: doc
+occupation: Doc
+person_name: Jim
+person_name: Monet
+occupation: prince
+occupation: doc
+person_name: Jim
+medical_condition: amnesiac
+medical_condition: amnesiac
+medical_condition: amnesia
+medical_condition: amnesia
+occupation: psychologists
+person_name: Gilbert
+occupation: Tech support
+organization: Harvard
+occupation: students
+occupation: professors
+organization: Harvard
+occupation: students
+occupation: students
+location: England
+location: Atlantic
+occupation: students
+occupation: students
+occupation: students
+organization: Harvard
+occupation: students
+occupation: photography
+occupation: students
+person_name: Bard
+medical_process: gallbladder surgery
+location: Paris
+political_affiliation: capitalism
+person_name: Adam Smith
+medical_condition: disorders
+person_name: Dan Ann Gilbert
+event: Ted, 2004
+location: Monterey, California
+event: Ted
+url: TED.com
